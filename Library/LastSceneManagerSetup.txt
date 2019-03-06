@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/SwipeCar.unity
+  isLoaded: 1
+  isActive: 1
